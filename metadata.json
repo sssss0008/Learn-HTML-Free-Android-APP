@@ -1,0 +1,6 @@
+{
+  "name": "Learn HTML",
+  "description": "Master modern HTML from zero. Interactive code playground, live browser preview, 14 modules, projects, quizzes, and tag explorer by Awiskar Acharya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
